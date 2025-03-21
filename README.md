@@ -40,4 +40,5 @@ ClearHear построен на микросервисной архитекту�
    git clone https://github.com/yourusername/ClearHear.git
    cd ClearHear```
 3. Запустите инфраструктуру:
-   ```docker-compose up```
+   ```bash
+   docker-compose up```
